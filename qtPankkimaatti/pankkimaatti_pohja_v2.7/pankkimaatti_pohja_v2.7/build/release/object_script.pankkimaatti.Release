@@ -1,0 +1,15 @@
+release/credit.o
+release/credit_debit.o
+release/debit.o
+release/main.o
+release/mainwindow.o
+release/muu_summa.o
+release/nosto.o
+release/tapahtumat.o
+release/moc_credit.o
+release/moc_credit_debit.o
+release/moc_debit.o
+release/moc_mainwindow.o
+release/moc_muu_summa.o
+release/moc_nosto.o
+release/moc_tapahtumat.o

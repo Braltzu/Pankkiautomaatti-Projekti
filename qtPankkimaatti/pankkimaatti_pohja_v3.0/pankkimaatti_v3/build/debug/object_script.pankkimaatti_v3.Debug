@@ -1,0 +1,15 @@
+debug/credit.o
+debug/credit_debit.o
+debug/debit.o
+debug/main.o
+debug/mainwindow.o
+debug/muu_summa.o
+debug/nosto.o
+debug/tapahtumat.o
+debug/moc_credit.o
+debug/moc_credit_debit.o
+debug/moc_debit.o
+debug/moc_mainwindow.o
+debug/moc_muu_summa.o
+debug/moc_nosto.o
+debug/moc_tapahtumat.o
